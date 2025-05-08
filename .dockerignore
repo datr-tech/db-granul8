@@ -18,5 +18,3 @@ tsconfig.json
 .github
 .husky
 
-coverage
-src
