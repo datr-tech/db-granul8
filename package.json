@@ -1,7 +1,7 @@
 {
   "name": "@datr.tech/db-granul8",
   "description": "API for granul8",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "private": false,
   "homepage": "https://github.com/datr.tech/db-granul8",
   "repository": {
